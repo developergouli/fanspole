@@ -57,13 +57,22 @@
                     
                     var filterTeam = $('#filterTeam').val().toLowerCase();                    
                     var filterPlayer = $('#filterPlayer').val().toLowerCase();
-                    var filterRole = $('#filterRole').val().toLowerCase();
+                    var filterRole = $('#filterRole').val().toLowerCase();                    
                     
                     $("#tblPlayers tr").not(":first").filter(function () {
-                        $(this).toggle(
-                            $(this).find('td:eq(0)').text().toLowerCase().indexOf(filterTeam) > -1 &&
-                            $(this).find('td:eq(1)').text().toLowerCase().indexOf(filterPlayer) > -1 &&
-                            $(this).find('td:eq(2)').text().toLowerCase() == filterRole);                                
+                        $(this).find('tr').show();
+
+                        if (filterRole != null && filterRole == '') {                            
+                            $(this).toggle(
+                                $(this).find('td:eq(0)').text().toLowerCase().indexOf(filterTeam) > -1 &&
+                                $(this).find('td:eq(1)').text().toLowerCase().indexOf(filterPlayer) > -1);  
+                        }
+                        else {
+                            $(this).toggle(
+                                $(this).find('td:eq(0)').text().toLowerCase().indexOf(filterTeam) > -1 &&
+                                $(this).find('td:eq(1)').text().toLowerCase().indexOf(filterPlayer) > -1 &&
+                                $(this).find('td:eq(2)').text().toLowerCase() == filterRole);  
+                        }                                                      
                     });
                 });       
 
