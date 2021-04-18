@@ -30,15 +30,15 @@
 
                 // Append match numbers
                 $.each(data, function (key, val) {
-                    if (!matches.includes(val['MatchNum'])) {
+                    if (matches.indexOf(val['MatchNum']) == -1) {
                         matches.push(val['MatchNum']);
                     }
                 });
 
-                $.each(matches.sort().reverse(), function (index, match) {
+                $.each(matches.sort(function (a, b) { return b - a }), function (index, match) {
                     $('#lstMatchNum').append('<option>' + match + '</option>');
                 });
-
+                
                 // select first item in list
                 $('#lstMatchNum').prop('selectedIndex', 0);
 
@@ -67,18 +67,18 @@
                     });
                 });       
 
-                $('#lstMatchNum').on('change', function () {
-                    $('#tblPlayers tr').slice(1).remove();
+                $('#lstMatchNum').on('change', function () {                  
+                    $('#tblPlayers tr').slice(1).remove();                    
+
                     var selectedMatchNum = $(this).val();
                     var tblRow = '';
                     // Append values to table
                     $.each(data, function (key, val) {
-                        console.log(data);
                         if (val['MatchNum'] == selectedMatchNum) {                                  
                             tblRow += '<tr><td>' + val['FpMember'] + '</td><td>' + val['Player'] + '</td><td>' + val['Role'] + '</td></tr>';                            
                         }
                     });
-                    $('#tblPlayers').append(tblRow);
+                    $('#tblPlayers').append(tblRow);                    
                 });
             });
         });
