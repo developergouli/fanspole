@@ -63,7 +63,7 @@
                         $(this).toggle(
                             $(this).find('td:eq(0)').text().toLowerCase().indexOf(filterTeam) > -1 &&
                             $(this).find('td:eq(1)').text().toLowerCase().indexOf(filterPlayer) > -1 &&
-                            $(this).find('td:eq(2)').text().toLowerCase().indexOf(filterRole) > -1);                                
+                            $(this).find('td:eq(2)').text().toLowerCase() == filterRole);                                
                     });
                 });       
 
