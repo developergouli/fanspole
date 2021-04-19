@@ -13,12 +13,18 @@
         <label for="lstMatchNum">Pick Match Number:</label>
         <select id="lstMatchNum">
         </select>
+        
+        <span style="margin-left:50px;margin-right:10px"> | </span>
+        <label for="spanCount">Count: </label>
+        <span id="spanCount"></span>
+
         <a href="Fanspole.csv" download class="float-right">
-            <input type="button" id="btnDownloadCsv" value="Download CSV" class="button"/>
+            <input type="button" id="btnDownloadCsv" value="Download CSV" class="button" />
         </a>
         <a href="Fanspole.json" download class="float-right">
-            <input type="button" id="btnDownloadJson" value="Download JSON" class="button"/>
+            <input type="button" id="btnDownloadJson" value="Download JSON" class="button" />
         </a>
+
     </div>
     <div id="divPlayers"></div>
     <script>
@@ -74,6 +80,10 @@
                                 $(this).find('td:eq(2)').text().toLowerCase() == filterRole);  
                         }                                                      
                     });
+
+                    // Update filtered player count
+                    $('#spanCount').text($("#tblPlayers tr:visible").length - 1);
+
                 });       
 
                 $('#lstMatchNum').on('change', function () {                  
