@@ -4,63 +4,63 @@
         "Credit": 9.5,
         "Name": "AB de Villiers",
         "Role": "BAT/WK",
-        "Team": "PNJ"
+        "Team": "BLR"
     },
     {
         "Alias": "K. Rahul",
         "Credit": 9.5,
         "Name": "KL Rahul",
         "Role": "BAT/WK",
-        "Team": "RAJ"
+        "Team": "PNJ"
     },
     {
         "Alias": "J. Buttler",
         "Credit": 9.5,
         "Name": "Jos Buttler",
         "Role": "BAT/WK",
-        "Team": "DEL"
+        "Team": "RAJ"
     },
     {
         "Alias": "R. Pant",
         "Credit": 9.5,
         "Name": "Rishabh Pant",
         "Role": "BAT/WK",
-        "Team": "CHE"
+        "Team": "DEL"
     },
     {
         "Alias": "M. Dhoni",
         "Credit": 9.5,
         "Name": "MS Dhoni",
         "Role": "BAT/WK",
-        "Team": "HYD"
+        "Team": "CHE"
     },
     {
         "Alias": "J. Bairstow",
         "Credit": 9,
         "Name": "Jonny Bairstow",
         "Role": "BAT/WK",
-        "Team": "MUM"
+        "Team": "HYD"
     },
     {
         "Alias": "Q. Kock",
         "Credit": 9,
         "Name": "Quinton de Kock",
         "Role": "BAT/WK",
-        "Team": "RAJ"
+        "Team": "MUM"
     },
     {
         "Alias": "S. Samson",
         "Credit": 9,
         "Name": "Sanju Samson",
         "Role": "BAT/WK",
-        "Team": "PNJ"
+        "Team": "RAJ"
     },
     {
         "Alias": "N. Pooran",
         "Credit": 8.5,
         "Name": "Nicholas Pooran",
         "Role": "BAT/WK",
-        "Team": "KOL"
+        "Team": "PNJ"
     },
     {
         "Alias": "T. Seifert",
@@ -74,70 +74,70 @@
         "Credit": 8.5,
         "Name": "Dinesh Karthik",
         "Role": "BAT/WK",
-        "Team": "MUM"
+        "Team": "KOL"
     },
     {
         "Alias": "I. Kishan",
         "Credit": 8.5,
         "Name": "Ishan Kishan",
         "Role": "BAT/WK",
-        "Team": "DEL"
+        "Team": "MUM"
     },
     {
         "Alias": "S. Billings",
         "Credit": 8.5,
         "Name": "Sam Billings",
         "Role": "WK",
-        "Team": "HYD"
+        "Team": "DEL"
     },
     {
         "Alias": "W. Saha",
         "Credit": 8,
         "Name": "Wriddhiman Saha",
         "Role": "BAT/WK",
-        "Team": "DEL"
+        "Team": "HYD"
     },
     {
         "Alias": "V. Vinod",
         "Credit": 8,
         "Name": "Vishnu Vinod",
         "Role": "WK",
-        "Team": "BLR"
+        "Team": "DEL"
     },
     {
         "Alias": "K. Bharat",
         "Credit": 8,
         "Name": "KS Bharat",
         "Role": "WK",
-        "Team": "KOL"
+        "Team": "BLR"
     },
     {
         "Alias": "S. Jackson",
         "Credit": 8,
         "Name": "Sheldon Jackson",
         "Role": "WK",
-        "Team": "MUM"
+        "Team": "KOL"
     },
     {
         "Alias": "A. Tare",
         "Credit": 8,
         "Name": "Aditya Tare",
         "Role": "WK",
-        "Team": "PNJ"
+        "Team": "MUM"
     },
     {
         "Alias": "P. Singh",
         "Credit": 8,
         "Name": "Prabhsimran Singh",
         "Role": "WK",
-        "Team": "HYD"
+        "Team": "PNJ"
     },
     {
         "Alias": "S. Goswami",
         "Credit": 7.5,
         "Name": "Shreevats Goswami",
         "Role": "BAT/WK",
-        "Team": "RAJ"
+        "Team": "HYD"
     },
     {
         "Alias": "A. Rawat",
@@ -151,308 +151,308 @@
         "Credit": 10.5,
         "Name": "Virat Kohli",
         "Role": "BAT",
-        "Team": "MUM"
+        "Team": "BLR"
     },
     {
         "Alias": "R. Sharma",
         "Credit": 10,
         "Name": "Rohit Sharma",
         "Role": "BAT",
-        "Team": "HYD"
+        "Team": "MUM"
     },
     {
         "Alias": "D. Warner",
         "Credit": 10,
         "Name": "David Warner",
         "Role": "BAT",
-        "Team": "CHE"
+        "Team": "HYD"
     },
     {
         "Alias": "S. Raina",
         "Credit": 9.5,
         "Name": "Suresh Raina",
         "Role": "BAT",
-        "Team": "PNJ"
+        "Team": "CHE"
     },
     {
         "Alias": "C. Gayle",
         "Credit": 9.5,
         "Name": "Chris Gayle",
         "Role": "BAT",
-        "Team": "BLR"
+        "Team": "PNJ"
     },
     {
         "Alias": "A. Villiers",
         "Credit": 9.5,
         "Name": "AB de Villiers",
         "Role": "BAT/WK",
-        "Team": "PNJ"
+        "Team": "BLR"
     },
     {
         "Alias": "K. Rahul",
         "Credit": 9.5,
         "Name": "KL Rahul",
         "Role": "BAT/WK",
-        "Team": "RAJ"
+        "Team": "PNJ"
     },
     {
         "Alias": "J. Buttler",
         "Credit": 9.5,
         "Name": "Jos Buttler",
         "Role": "BAT/WK",
-        "Team": "DEL"
+        "Team": "RAJ"
     },
     {
         "Alias": "R. Pant",
         "Credit": 9.5,
         "Name": "Rishabh Pant",
         "Role": "BAT/WK",
-        "Team": "CHE"
+        "Team": "DEL"
     },
     {
         "Alias": "M. Dhoni",
         "Credit": 9.5,
         "Name": "MS Dhoni",
         "Role": "BAT/WK",
-        "Team": "HYD"
+        "Team": "CHE"
     },
     {
         "Alias": "M. Pandey",
         "Credit": 9,
         "Name": "Manish Pandey",
         "Role": "BAT",
-        "Team": "PNJ"
+        "Team": "HYD"
     },
     {
         "Alias": "D. Malan",
         "Credit": 9,
         "Name": "Dawid Malan",
         "Role": "BAT",
-        "Team": "CHE"
+        "Team": "PNJ"
     },
     {
         "Alias": "A. Rayudu",
         "Credit": 9,
         "Name": "Ambati Rayudu",
         "Role": "BAT",
-        "Team": "DEL"
+        "Team": "CHE"
     },
     {
         "Alias": "S. Smith",
         "Credit": 9,
         "Name": "Steve Smith",
         "Role": "BAT",
-        "Team": "KOL"
+        "Team": "DEL"
     },
     {
         "Alias": "E. Morgan",
         "Credit": 9,
         "Name": "Eoin Morgan",
         "Role": "BAT",
-        "Team": "DEL"
+        "Team": "KOL"
     },
     {
         "Alias": "S. Dhawan",
         "Credit": 9,
         "Name": "Shikhar Dhawan",
         "Role": "BAT",
-        "Team": "CHE"
+        "Team": "DEL"
     },
     {
         "Alias": "F. Plessis",
         "Credit": 9,
         "Name": "Faf du Plessis",
         "Role": "BAT",
-        "Team": "BLR"
+        "Team": "CHE"
     },
     {
         "Alias": "F. Allen",
         "Credit": 9,
         "Name": "Finn Allen",
         "Role": "BAT",
-        "Team": "HYD"
+        "Team": "BLR"
     },
     {
         "Alias": "K. Williamson",
         "Credit": 9,
         "Name": "Kane Williamson",
         "Role": "BAT",
-        "Team": "DEL"
+        "Team": "HYD"
     },
     {
         "Alias": "A. Rahane",
         "Credit": 9,
         "Name": "Ajinkya Rahane",
         "Role": "BAT",
-        "Team": "MUM"
+        "Team": "DEL"
     },
     {
         "Alias": "C. Lynn",
         "Credit": 9,
         "Name": "Chris Lynn",
         "Role": "BAT",
-        "Team": "KOL"
+        "Team": "MUM"
     },
     {
         "Alias": "S. Gill",
         "Credit": 9,
         "Name": "Shubman Gill",
         "Role": "BAT",
-        "Team": "RAJ"
+        "Team": "KOL"
     },
     {
         "Alias": "D. Miller",
         "Credit": 9,
         "Name": "David Miller",
         "Role": "BAT",
-        "Team": "PNJ"
+        "Team": "RAJ"
     },
     {
         "Alias": "M. Agarwal",
         "Credit": 9,
         "Name": "Mayank Agarwal",
         "Role": "BAT",
-        "Team": "CHE"
+        "Team": "PNJ"
     },
     {
         "Alias": "M. Ali",
         "Credit": 9,
         "Name": "Moeen Ali",
         "Role": "BAT/AL",
-        "Team": "BLR"
+        "Team": "CHE"
     },
     {
         "Alias": "G. Maxwell",
         "Credit": 9,
         "Name": "Glenn Maxwell",
         "Role": "BAT/AL",
-        "Team": "HYD"
+        "Team": "BLR"
     },
     {
         "Alias": "J. Bairstow",
         "Credit": 9,
         "Name": "Jonny Bairstow",
         "Role": "BAT/WK",
-        "Team": "MUM"
+        "Team": "HYD"
     },
     {
         "Alias": "Q. Kock",
         "Credit": 9,
         "Name": "Quinton de Kock",
         "Role": "BAT/WK",
-        "Team": "RAJ"
+        "Team": "MUM"
     },
     {
         "Alias": "S. Samson",
         "Credit": 9,
         "Name": "Sanju Samson",
         "Role": "BAT/WK",
-        "Team": "KOL"
+        "Team": "RAJ"
     },
     {
         "Alias": "R. Tripathi",
         "Credit": 8.5,
         "Name": "Rahul Tripathi",
         "Role": "BAT",
-        "Team": "PNJ"
+        "Team": "KOL"
     },
     {
         "Alias": "M. Singh",
         "Credit": 8.5,
         "Name": "Mandeep Singh",
         "Role": "BAT",
-        "Team": "RAJ"
+        "Team": "PNJ"
     },
     {
         "Alias": "M. Vohra",
         "Credit": 8.5,
         "Name": "Manan Vohra",
         "Role": "BAT",
-        "Team": "PNJ"
+        "Team": "RAJ"
     },
     {
         "Alias": "S. Khan",
         "Credit": 8.5,
         "Name": "Sarfaraz Khan",
         "Role": "BAT",
-        "Team": "CHE"
+        "Team": "PNJ"
     },
     {
         "Alias": "R. Uthappa",
         "Credit": 8.5,
         "Name": "Robin Uthappa",
         "Role": "BAT",
-        "Team": "HYD"
+        "Team": "CHE"
     },
     {
         "Alias": "K. Jadhav",
         "Credit": 8.5,
         "Name": "Kedar Jadhav",
         "Role": "BAT",
-        "Team": "MUM"
+        "Team": "HYD"
     },
     {
         "Alias": "S. Tiwary",
         "Credit": 8.5,
         "Name": "Saurabh Tiwary",
         "Role": "BAT",
-        "Team": "BLR"
+        "Team": "MUM"
     },
     {
         "Alias": "D. Padikkal",
         "Credit": 8.5,
         "Name": "Devdutt Padikkal",
         "Role": "BAT",
-        "Team": "HYD"
+        "Team": "BLR"
     },
     {
         "Alias": "J. Roy",
         "Credit": 8.5,
         "Name": "Jason Roy",
         "Role": "BAT",
-        "Team": "DEL"
+        "Team": "HYD"
     },
     {
         "Alias": "P. Shaw",
         "Credit": 8.5,
         "Name": "Prithvi Shaw",
         "Role": "BAT",
-        "Team": "MUM"
+        "Team": "DEL"
     },
     {
         "Alias": "S. Yadav",
         "Credit": 8.5,
         "Name": "Suryakumar Yadav",
         "Role": "BAT",
-        "Team": "KOL"
+        "Team": "MUM"
     },
     {
         "Alias": "N. Rana",
         "Credit": 8.5,
         "Name": "Nitish Rana",
         "Role": "BAT",
-        "Team": "DEL"
+        "Team": "KOL"
     },
     {
         "Alias": "S. Hetmyer",
         "Credit": 8.5,
         "Name": "Shimron Hetmyer",
         "Role": "BAT",
-        "Team": "RAJ"
+        "Team": "DEL"
     },
     {
         "Alias": "L. Livingstone",
         "Credit": 8.5,
         "Name": "Liam Livingstone",
         "Role": "BAT/AL",
-        "Team": "PNJ"
+        "Team": "RAJ"
     },
     {
         "Alias": "N. Pooran",
         "Credit": 8.5,
         "Name": "Nicholas Pooran",
         "Role": "BAT/WK",
-        "Team": "KOL"
+        "Team": "PNJ"
     },
     {
         "Alias": "T. Seifert",
@@ -466,56 +466,56 @@
         "Credit": 8.5,
         "Name": "Dinesh Karthik",
         "Role": "BAT/WK",
-        "Team": "MUM"
+        "Team": "KOL"
     },
     {
         "Alias": "I. Kishan",
         "Credit": 8.5,
         "Name": "Ishan Kishan",
         "Role": "BAT/WK",
-        "Team": "RAJ"
+        "Team": "MUM"
     },
     {
         "Alias": "Y. Jaiswal",
         "Credit": 8,
         "Name": "Yashasvi Jaiswal",
         "Role": "BAT",
-        "Team": "CHE"
+        "Team": "RAJ"
     },
     {
         "Alias": "C. Pujara",
         "Credit": 8,
         "Name": "Cheteshwar Pujara",
         "Role": "BAT",
-        "Team": "BLR"
+        "Team": "CHE"
     },
     {
         "Alias": "R. Patidar",
         "Credit": 8,
         "Name": "Rajat Patidar",
         "Role": "BAT",
-        "Team": "KOL"
+        "Team": "BLR"
     },
     {
         "Alias": "G. Mann",
         "Credit": 8,
         "Name": "Gurkeerat Singh Mann",
         "Role": "BAT",
-        "Team": "PNJ"
+        "Team": "KOL"
     },
     {
         "Alias": "S. Khan",
         "Credit": 8,
         "Name": "Shahrukh Khan",
         "Role": "BAT",
-        "Team": "KOL"
+        "Team": "PNJ"
     },
     {
         "Alias": "K. Nair",
         "Credit": 8,
         "Name": "Karun Nair",
         "Role": "BAT",
-        "Team": "CHE"
+        "Team": "KOL"
     },
     {
         "Alias": "H. Nishanth",
@@ -529,7 +529,7 @@
         "Credit": 8,
         "Name": "Ruturaj Gaikwad",
         "Role": "BAT",
-        "Team": "BLR"
+        "Team": "CHE"
     },
     {
         "Alias": "M. Azharuddeen",
@@ -543,21 +543,21 @@
         "Credit": 8,
         "Name": "Sachin Baby",
         "Role": "BAT",
-        "Team": "PNJ"
+        "Team": "BLR"
     },
     {
         "Alias": "D. Hooda",
         "Credit": 8,
         "Name": "Deepak Hooda",
         "Role": "BAT/AL",
-        "Team": "RAJ"
+        "Team": "PNJ"
     },
     {
         "Alias": "R. Parag",
         "Credit": 8,
         "Name": "Riyan Parag",
         "Role": "BAT/AL",
-        "Team": "HYD"
+        "Team": "RAJ"
     },
     {
         "Alias": "A. Samad",
@@ -578,28 +578,28 @@
         "Credit": 7.5,
         "Name": "Virat Singh",
         "Role": "BAT",
-        "Team": "CHE"
+        "Team": "HYD"
     },
     {
         "Alias": "B. Varma",
         "Credit": 7.5,
         "Name": "Bhagath Varma",
         "Role": "BAT",
-        "Team": "DEL"
+        "Team": "CHE"
     },
     {
         "Alias": "R. Patel",
         "Credit": 7.5,
         "Name": "Ripal Patel",
         "Role": "BAT",
-        "Team": "BLR"
+        "Team": "DEL"
     },
     {
         "Alias": "P. Deshpande",
         "Credit": 7.5,
         "Name": "Pavan Deshpande",
         "Role": "BAT",
-        "Team": "MUM"
+        "Team": "BLR"
     },
     {
         "Alias": "A. Singh",
@@ -613,28 +613,28 @@
         "Credit": 7.5,
         "Name": "Yudhvir Singh",
         "Role": "BAT",
-        "Team": "HYD"
+        "Team": "MUM"
     },
     {
         "Alias": "P. Garg",
         "Credit": 7.5,
         "Name": "Priyam Garg",
         "Role": "BAT",
-        "Team": "CHE"
+        "Team": "HYD"
     },
     {
         "Alias": "N. Jagadeesan",
         "Credit": 7.5,
         "Name": "N Jagadeesan",
         "Role": "BAT",
-        "Team": "BLR"
+        "Team": "CHE"
     },
     {
         "Alias": "S. Ahmed",
         "Credit": 7.5,
         "Name": "Shahbaz Ahmed",
         "Role": "BAT",
-        "Team": "HYD"
+        "Team": "BLR"
     },
     {
         "Alias": "S. Goswami",
@@ -655,21 +655,21 @@
         "Credit": 9.5,
         "Name": "Sunil Narine",
         "Role": "AL",
-        "Team": "RAJ"
+        "Team": "KOL"
     },
     {
         "Alias": "C. Morris",
         "Credit": 9.5,
         "Name": "Chris Morris",
         "Role": "AL",
-        "Team": "MUM"
+        "Team": "RAJ"
     },
     {
         "Alias": "H. Pandya",
         "Credit": 9.5,
         "Name": "Hardik Pandya",
         "Role": "AL",
-        "Team": "CHE"
+        "Team": "MUM"
     },
     {
         "Alias": "R. Jadeja",
@@ -683,133 +683,133 @@
         "Credit": 9,
         "Name": "Moeen Ali",
         "Role": "BAT/AL",
-        "Team": "BLR"
+        "Team": "CHE"
     },
     {
         "Alias": "G. Maxwell",
         "Credit": 9,
         "Name": "Glenn Maxwell",
         "Role": "BAT/AL",
-        "Team": "DEL"
+        "Team": "BLR"
     },
     {
         "Alias": "M. Stoinis",
         "Credit": 9,
         "Name": "Marcus Stoinis",
         "Role": "AL",
-        "Team": "KOL"
+        "Team": "DEL"
     },
     {
         "Alias": "S. Hasan",
         "Credit": 9,
         "Name": "Shakib Al Hasan",
         "Role": "AL",
-        "Team": "CHE"
+        "Team": "KOL"
     },
     {
         "Alias": "S. Curran",
         "Credit": 9,
         "Name": "Sam Curran",
         "Role": "AL",
-        "Team": "PNJ"
+        "Team": "CHE"
     },
     {
         "Alias": "M. Henriques",
         "Credit": 9,
         "Name": "Moises Henriques",
         "Role": "AL",
-        "Team": "HYD"
+        "Team": "PNJ"
     },
     {
         "Alias": "M. Nabi",
         "Credit": 9,
         "Name": "Mohammad Nabi",
         "Role": "AL",
-        "Team": "CHE"
+        "Team": "HYD"
     },
     {
         "Alias": "M. Santner",
         "Credit": 9,
         "Name": "Mitchell Santner",
         "Role": "AL",
-        "Team": "BLR"
+        "Team": "CHE"
     },
     {
         "Alias": "D. Christian",
         "Credit": 9,
         "Name": "Daniel Christian",
         "Role": "AL",
-        "Team": "CHE"
+        "Team": "BLR"
     },
     {
         "Alias": "D. Bravo",
         "Credit": 9,
         "Name": "Dwayne Bravo",
         "Role": "AL",
-        "Team": "RAJ"
+        "Team": "CHE"
     },
     {
         "Alias": "L. Livingstone",
         "Credit": 8.5,
         "Name": "Liam Livingstone",
         "Role": "BAT/AL",
-        "Team": "MUM"
+        "Team": "RAJ"
     },
     {
         "Alias": "J. Neesham",
         "Credit": 8.5,
         "Name": "James Neesham",
         "Role": "AL",
-        "Team": "RAJ"
+        "Team": "MUM"
     },
     {
         "Alias": "S. Dube",
         "Credit": 8.5,
         "Name": "Shivam Dube",
         "Role": "AL",
-        "Team": "MUM"
+        "Team": "RAJ"
     },
     {
         "Alias": "K. Pollard",
         "Credit": 8.5,
         "Name": "Kieron Pollard",
         "Role": "AL",
-        "Team": "KOL"
+        "Team": "MUM"
     },
     {
         "Alias": "B. Cutting",
         "Credit": 8.5,
         "Name": "Ben Cutting",
         "Role": "AL",
-        "Team": "DEL"
+        "Team": "KOL"
     },
     {
         "Alias": "C. Woakes",
         "Credit": 8.5,
         "Name": "Chris Woakes",
         "Role": "AL",
-        "Team": "PNJ"
+        "Team": "DEL"
     },
     {
         "Alias": "J. Saxena",
         "Credit": 8.5,
         "Name": "Jalaj Saxena",
         "Role": "AL",
-        "Team": "DEL"
+        "Team": "PNJ"
     },
     {
         "Alias": "T. Curran",
         "Credit": 8.5,
         "Name": "Tom Curran",
         "Role": "AL",
-        "Team": "BLR"
+        "Team": "DEL"
     },
     {
         "Alias": "W. Sundar",
         "Credit": 8.5,
         "Name": "Washington Sundar",
         "Role": "AL",
-        "Team": "HYD"
+        "Team": "BLR"
     },
     {
         "Alias": "V. Shankar",
@@ -823,84 +823,84 @@
         "Credit": 8.5,
         "Name": "Jason Holder",
         "Role": "AL",
-        "Team": "PNJ"
+        "Team": "HYD"
     },
     {
         "Alias": "F. Allen",
         "Credit": 8.5,
         "Name": "Fabian Allen",
         "Role": "AL/BOWL",
-        "Team": "MUM"
+        "Team": "PNJ"
     },
     {
         "Alias": "K. Pandya",
         "Credit": 8.5,
         "Name": "Krunal Pandya",
         "Role": "AL/BOWL",
-        "Team": "PNJ"
+        "Team": "MUM"
     },
     {
         "Alias": "D. Hooda",
         "Credit": 8,
         "Name": "Deepak Hooda",
         "Role": "BAT/AL",
-        "Team": "RAJ"
+        "Team": "PNJ"
     },
     {
         "Alias": "R. Parag",
         "Credit": 8,
         "Name": "Riyan Parag",
         "Role": "BAT/AL",
-        "Team": "HYD"
+        "Team": "RAJ"
     },
     {
         "Alias": "A. Samad",
         "Credit": 8,
         "Name": "Abdul Samad",
         "Role": "BAT/AL",
-        "Team": "BLR"
+        "Team": "HYD"
     },
     {
         "Alias": "D. Sams",
         "Credit": 8,
         "Name": "Daniel Sams",
         "Role": "AL",
-        "Team": "PNJ"
+        "Team": "BLR"
     },
     {
         "Alias": "S. Kumar",
         "Credit": 8,
         "Name": "Saurabh Kumar",
         "Role": "AL",
-        "Team": "MUM"
+        "Team": "PNJ"
     },
     {
         "Alias": "A. Roy",
         "Credit": 8,
         "Name": "Anukul Roy",
         "Role": "AL",
-        "Team": "BLR"
+        "Team": "MUM"
     },
     {
         "Alias": "S. Prabhudessai",
         "Credit": 8,
         "Name": "Suyash Prabhudessai",
         "Role": "AL",
-        "Team": "RAJ"
+        "Team": "BLR"
     },
     {
         "Alias": "C. Sakariya",
         "Credit": 8,
         "Name": "Chetan Sakariya",
         "Role": "AL",
-        "Team": "KOL"
+        "Team": "RAJ"
     },
     {
         "Alias": "V. Iyer",
         "Credit": 8,
         "Name": "Venkatesh Iyer",
         "Role": "AL",
-        "Team": "DEL"
+        "Team": "KOL"
     },
     {
         "Alias": "S. Mulani",
@@ -914,28 +914,28 @@
         "Credit": 8,
         "Name": "Lukman Meriwala",
         "Role": "AL",
-        "Team": "RAJ"
+        "Team": "DEL"
     },
     {
         "Alias": "R. Tewatia",
         "Credit": 8,
         "Name": "Rahul Tewatia",
         "Role": "AL/BOWL",
-        "Team": "DEL"
+        "Team": "RAJ"
     },
     {
         "Alias": "L. Yadav",
         "Credit": 7.5,
         "Name": "Lalit Yadav",
         "Role": "AL",
-        "Team": "CHE"
+        "Team": "DEL"
     },
     {
         "Alias": "H. Reddy",
         "Credit": 7.5,
         "Name": "Harishankar Reddy",
         "Role": "AL",
-        "Team": "PNJ"
+        "Team": "CHE"
     },
     {
         "Alias": "H. Brar",
@@ -949,14 +949,14 @@
         "Credit": 7.5,
         "Name": "Utkarsh Singh",
         "Role": "AL",
-        "Team": "RAJ"
+        "Team": "PNJ"
     },
     {
         "Alias": "M. Lomror",
         "Credit": 7.5,
         "Name": "Mahipal Lomror",
         "Role": "AL",
-        "Team": "MUM"
+        "Team": "RAJ"
     },
     {
         "Alias": "M. Khan",
@@ -970,28 +970,28 @@
         "Credit": 9.5,
         "Name": "Jasprit Bumrah",
         "Role": "BOWL",
-        "Team": "HYD"
+        "Team": "MUM"
     },
     {
         "Alias": "R. Khan",
         "Credit": 9.5,
         "Name": "Rashid Khan",
         "Role": "BOWL",
-        "Team": "DEL"
+        "Team": "HYD"
     },
     {
         "Alias": "K. Rabada",
         "Credit": 9.5,
         "Name": "Kagiso Rabada",
         "Role": "BOWL",
-        "Team": "HYD"
+        "Team": "DEL"
     },
     {
         "Alias": "B. Kumar",
         "Credit": 9,
         "Name": "Bhuvneshwar Kumar",
         "Role": "BOWL",
-        "Team": "PNJ"
+        "Team": "HYD"
     },
     {
         "Alias": "M. Shami",
@@ -1005,7 +1005,7 @@
         "Credit": 9,
         "Name": "Chris Jordan",
         "Role": "BOWL",
-        "Team": "MUM"
+        "Team": "PNJ"
     },
     {
         "Alias": "N. Coulter-Nile",
@@ -1019,147 +1019,147 @@
         "Credit": 9,
         "Name": "Trent Boult",
         "Role": "BOWL",
-        "Team": "KOL"
+        "Team": "MUM"
     },
     {
         "Alias": "P. Cummins",
         "Credit": 9,
         "Name": "Pat Cummins",
         "Role": "BOWL",
-        "Team": "BLR"
+        "Team": "KOL"
     },
     {
         "Alias": "K. Jamieson",
         "Credit": 9,
         "Name": "Kyle Jamieson",
         "Role": "BOWL",
-        "Team": "RAJ"
+        "Team": "BLR"
     },
     {
         "Alias": "A. Tye",
         "Credit": 9,
         "Name": "Andrew Tye",
         "Role": "BOWL",
-        "Team": "KOL"
+        "Team": "RAJ"
     },
     {
         "Alias": "K. Yadav",
         "Credit": 9,
         "Name": "Kuldeep Yadav",
         "Role": "BOWL",
-        "Team": "BLR"
+        "Team": "KOL"
     },
     {
         "Alias": "Y. Chahal",
         "Credit": 9,
         "Name": "Yuzvendra Chahal",
         "Role": "BOWL",
-        "Team": "HYD"
+        "Team": "BLR"
     },
     {
         "Alias": "M. Rahman",
         "Credit": 9,
         "Name": "Mujeeb ur Rahman",
         "Role": "BOWL",
-        "Team": "DEL"
+        "Team": "HYD"
     },
     {
         "Alias": "R. Ashwin",
         "Credit": 9,
         "Name": "Ravichandran Ashwin",
         "Role": "BOWL",
-        "Team": "CHE"
+        "Team": "DEL"
     },
     {
         "Alias": "I. Tahir",
         "Credit": 9,
         "Name": "Imran Tahir",
         "Role": "BOWL",
-        "Team": "KOL"
+        "Team": "CHE"
     },
     {
         "Alias": "H. Singh",
         "Credit": 9,
         "Name": "Harbhajan Singh",
         "Role": "BOWL",
-        "Team": "PNJ"
+        "Team": "KOL"
     },
     {
         "Alias": "J. Richardson",
         "Credit": 9,
         "Name": "Jhye Richardson",
         "Role": "BOWL",
-        "Team": "RAJ"
+        "Team": "PNJ"
     },
     {
         "Alias": "J. Archer",
         "Credit": 9,
         "Name": "Jofra Archer",
         "Role": "BOWL",
-        "Team": "PNJ"
+        "Team": "RAJ"
     },
     {
         "Alias": "F. Allen",
         "Credit": 8.5,
         "Name": "Fabian Allen",
         "Role": "AL/BOWL",
-        "Team": "MUM"
+        "Team": "PNJ"
     },
     {
         "Alias": "K. Pandya",
         "Credit": 8.5,
         "Name": "Krunal Pandya",
         "Role": "AL/BOWL",
-        "Team": "CHE"
+        "Team": "MUM"
     },
     {
         "Alias": "J. Behrendorff",
         "Credit": 8.5,
         "Name": "Jason Behrendorff",
         "Role": "BOWL",
-        "Team": "PNJ"
+        "Team": "CHE"
     },
     {
         "Alias": "R. Meredith",
         "Credit": 8.5,
         "Name": "Riley Meredith",
         "Role": "BOWL",
-        "Team": "BLR"
+        "Team": "PNJ"
     },
     {
         "Alias": "K. Richardson",
         "Credit": 8.5,
         "Name": "Kane Richardson",
         "Role": "BOWL",
-        "Team": "DEL"
+        "Team": "BLR"
     },
     {
         "Alias": "A. Mishra",
         "Credit": 8.5,
         "Name": "Amit Mishra",
         "Role": "BOWL",
-        "Team": "MUM"
+        "Team": "DEL"
     },
     {
         "Alias": "P. Chawla",
         "Credit": 8.5,
         "Name": "Piyush Chawla",
         "Role": "BOWL",
-        "Team": "DEL"
+        "Team": "MUM"
     },
     {
         "Alias": "U. Yadav",
         "Credit": 8.5,
         "Name": "Umesh Yadav",
         "Role": "BOWL",
-        "Team": "RAJ"
+        "Team": "DEL"
     },
     {
         "Alias": "M. Rahman",
         "Credit": 8.5,
         "Name": "Mustafizur Rahman",
         "Role": "BOWL",
-        "Team": "CHE"
+        "Team": "RAJ"
     },
     {
         "Alias": "L. Ngidi",
@@ -1180,14 +1180,14 @@
         "Credit": 8.5,
         "Name": "Shardul Thakur",
         "Role": "BOWL",
-        "Team": "DEL"
+        "Team": "CHE"
     },
     {
         "Alias": "A. Nortje",
         "Credit": 8.5,
         "Name": "Anrich Nortje",
         "Role": "BOWL",
-        "Team": "KOL"
+        "Team": "DEL"
     },
     {
         "Alias": "L. Ferguson",
@@ -1201,7 +1201,7 @@
         "Credit": 8.5,
         "Name": "Pawan Negi",
         "Role": "BOWL",
-        "Team": "HYD"
+        "Team": "KOL"
     },
     {
         "Alias": "S. Kaul",
@@ -1215,161 +1215,161 @@
         "Credit": 8.5,
         "Name": "Sandeep Sharma",
         "Role": "BOWL",
-        "Team": "RAJ"
+        "Team": "HYD"
     },
     {
         "Alias": "J. Unadkat",
         "Credit": 8.5,
         "Name": "Jaydev Unadkat",
         "Role": "BOWL",
-        "Team": "MUM"
+        "Team": "RAJ"
     },
     {
         "Alias": "J. Yadav",
         "Credit": 8.5,
         "Name": "Jayant Yadav",
         "Role": "BOWL",
-        "Team": "PNJ"
+        "Team": "MUM"
     },
     {
         "Alias": "A. Singh",
         "Credit": 8.5,
         "Name": "Arshdeep Singh",
         "Role": "BOWL",
-        "Team": "CHE"
+        "Team": "PNJ"
     },
     {
         "Alias": "D. Chahar",
         "Credit": 8.5,
         "Name": "Deepak Chahar",
         "Role": "BOWL",
-        "Team": "MUM"
+        "Team": "CHE"
     },
     {
         "Alias": "R. Chahar",
         "Credit": 8.5,
         "Name": "Rahul Chahar",
         "Role": "BOWL",
-        "Team": "RAJ"
+        "Team": "MUM"
     },
     {
         "Alias": "S. Gopal",
         "Credit": 8.5,
         "Name": "Shreyas Gopal",
         "Role": "BOWL",
-        "Team": "BLR"
+        "Team": "RAJ"
     },
     {
         "Alias": "A. Zampa",
         "Credit": 8.5,
         "Name": "Adam Zampa",
         "Role": "BOWL",
-        "Team": "MUM"
+        "Team": "BLR"
     },
     {
         "Alias": "D. Kulkarni",
         "Credit": 8.5,
         "Name": "Dhawal Kulkarni",
         "Role": "BOWL",
-        "Team": "CHE"
+        "Team": "MUM"
     },
     {
         "Alias": "K. Gowtham",
         "Credit": 8.5,
         "Name": "Krishnappa Gowtham",
         "Role": "BOWL",
-        "Team": "BLR"
+        "Team": "CHE"
     },
     {
         "Alias": "M. Siraj",
         "Credit": 8.5,
         "Name": "Mohammed Siraj",
         "Role": "BOWL",
-        "Team": "HYD"
+        "Team": "BLR"
     },
     {
         "Alias": "T. Natarajan",
         "Credit": 8.5,
         "Name": "T Natarajan",
         "Role": "BOWL",
-        "Team": "KOL"
+        "Team": "HYD"
     },
     {
         "Alias": "V. Chakravarthy",
         "Credit": 8.5,
         "Name": "Varun Chakravarthy",
         "Role": "BOWL",
-        "Team": "MUM"
+        "Team": "KOL"
     },
     {
         "Alias": "A. Milne",
         "Credit": 8.5,
         "Name": "Adam Milne",
         "Role": "BOWL",
-        "Team": "DEL"
+        "Team": "MUM"
     },
     {
         "Alias": "I. Sharma",
         "Credit": 8.5,
         "Name": "Ishant Sharma",
         "Role": "BOWL",
-        "Team": "RAJ"
+        "Team": "DEL"
     },
     {
         "Alias": "R. Tewatia",
         "Credit": 8,
         "Name": "Rahul Tewatia",
         "Role": "AL/BOWL",
-        "Team": "PNJ"
+        "Team": "RAJ"
     },
     {
         "Alias": "I. Porel",
         "Credit": 8,
         "Name": "Ishan Porel",
         "Role": "BOWL",
-        "Team": "HYD"
+        "Team": "PNJ"
     },
     {
         "Alias": "K. Ahmed",
         "Credit": 8,
         "Name": "K Khaleel Ahmed",
         "Role": "BOWL",
-        "Team": "KOL"
+        "Team": "HYD"
     },
     {
         "Alias": "P. Krishna",
         "Credit": 8,
         "Name": "Prasidh Krishna",
         "Role": "BOWL",
-        "Team": "BLR"
+        "Team": "KOL"
     },
     {
         "Alias": "H. Patel",
         "Credit": 8,
         "Name": "Harshal Patel",
         "Role": "BOWL",
-        "Team": "HYD"
+        "Team": "BLR"
     },
     {
         "Alias": "B. Thampi",
         "Credit": 8,
         "Name": "Basil Thampi",
         "Role": "BOWL",
-        "Team": "MUM"
+        "Team": "HYD"
     },
     {
         "Alias": "M. Jansen",
         "Credit": 8,
         "Name": "Marco Jansen",
         "Role": "BOWL",
-        "Team": "DEL"
+        "Team": "MUM"
     },
     {
         "Alias": "A. Joshi",
         "Credit": 8,
         "Name": "Anniruddha Joshi",
         "Role": "BOWL",
-        "Team": "PNJ"
+        "Team": "DEL"
     },
     {
         "Alias": "M. Ashwin",
@@ -1383,49 +1383,49 @@
         "Credit": 8,
         "Name": "Ravi Bishnoi",
         "Role": "BOWL",
-        "Team": "HYD"
+        "Team": "PNJ"
     },
     {
         "Alias": "J. Suchith",
         "Credit": 8,
         "Name": "Jagadeesha Suchith",
         "Role": "BOWL",
-        "Team": "RAJ"
+        "Team": "HYD"
     },
     {
         "Alias": "K. Cariappa",
         "Credit": 8,
         "Name": "KC Cariappa",
         "Role": "BOWL",
-        "Team": "BLR"
+        "Team": "RAJ"
     },
     {
         "Alias": "N. Saini",
         "Credit": 8,
         "Name": "Navdeep Saini",
         "Role": "BOWL",
-        "Team": "DEL"
+        "Team": "BLR"
     },
     {
         "Alias": "A. Khan",
         "Credit": 8,
         "Name": "Avesh Khan",
         "Role": "BOWL",
-        "Team": "HYD"
+        "Team": "DEL"
     },
     {
         "Alias": "S. Nadeem",
         "Credit": 8,
         "Name": "Shahbaz Nadeem",
         "Role": "BOWL",
-        "Team": "KOL"
+        "Team": "HYD"
     },
     {
         "Alias": "S. Mavi",
         "Credit": 8,
         "Name": "Shivam Mavi",
         "Role": "BOWL",
-        "Team": "RAJ"
+        "Team": "KOL"
     },
     {
         "Alias": "M. Markande",
@@ -1439,84 +1439,84 @@
         "Credit": 8,
         "Name": "Kartik Tyagi",
         "Role": "BOWL",
-        "Team": "KOL"
+        "Team": "RAJ"
     },
     {
         "Alias": "K. Nagarkoti",
         "Credit": 8,
         "Name": "Kamlesh Nagarkoti",
         "Role": "BOWL",
-        "Team": "MUM"
+        "Team": "KOL"
     },
     {
         "Alias": "M. Khan",
         "Credit": 7.5,
         "Name": "Mohsin Khan",
         "Role": "AL/BOWL",
-        "Team": "CHE"
+        "Team": "MUM"
     },
     {
         "Alias": "R. Kishore",
         "Credit": 7.5,
         "Name": "Ravisrinivasan Sai Kishore",
         "Role": "BOWL",
-        "Team": "DEL"
+        "Team": "CHE"
     },
     {
         "Alias": "M. Siddharth",
         "Credit": 7.5,
         "Name": "Manimaran Siddharth",
         "Role": "BOWL",
-        "Team": "CHE"
+        "Team": "DEL"
     },
     {
         "Alias": "K. Asif",
         "Credit": 7.5,
         "Name": "KM Asif",
         "Role": "BOWL",
-        "Team": "RAJ"
+        "Team": "CHE"
     },
     {
         "Alias": "K. Yadav",
         "Credit": 7.5,
         "Name": "Kuldip Yadav",
         "Role": "BOWL",
-        "Team": "DEL"
+        "Team": "RAJ"
     },
     {
         "Alias": "P. Dubey",
         "Credit": 7.5,
         "Name": "Praveen Dubey",
         "Role": "BOWL",
-        "Team": "RAJ"
+        "Team": "DEL"
     },
     {
         "Alias": "A. Singh",
         "Credit": 7.5,
         "Name": "Akash Singh",
         "Role": "BOWL",
-        "Team": "HYD"
+        "Team": "RAJ"
     },
     {
         "Alias": "A. Sharma",
         "Credit": 7.5,
         "Name": "Abhishek Sharma",
         "Role": "BOWL",
-        "Team": "MUM"
+        "Team": "HYD"
     },
     {
         "Alias": "A. Tendulkar",
         "Credit": 7.5,
         "Name": "Arjun Tendulkar",
         "Role": "BOWL",
-        "Team": "PNJ"
+        "Team": "MUM"
     },
     {
         "Alias": "D. Nalkande",
         "Credit": 7.5,
         "Name": "Darshan Nalkande",
         "Role": "BOWL",
-        "Team": "KOL"
+        "Team": "PNJ"
     },
     {
         "Alias": "S. Warrier",
